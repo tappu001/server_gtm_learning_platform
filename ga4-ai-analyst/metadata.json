@@ -1,5 +1,0 @@
-{
-  "name": "GA4 AI Analyst",
-  "description": "An intelligent chatbot to analyze your Google Analytics 4 data. Paste GA4 JSON, connect to a public Google Sheet, or use a simulated GA4 connection to ask questions, get insights, and generate visualizations. Requires process.env.API_KEY for Gemini.",
-  "requestFramePermissions": []
-}
